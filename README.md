@@ -1,3 +1,3 @@
-A simple shopping cart example demonstrating the use of Redux.
+A simple shopping cart built with Redux.
 
 ![](shop-cart.gif)
